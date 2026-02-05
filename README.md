@@ -6,8 +6,8 @@ class SeniorDeveloper {
   location = "Lübeck";
 
   contactInformation = {
-    email: "hello@ferdi.digital",
-    linkedin: "https://linkedin.com/in/ferniemann",
+    email: "moin@ferdi.digital",
+    linkedin: "https://linkedin.com/in/moinferdi",
     website: "https://ferdi.digital"
   };
 
