@@ -1,4 +1,4 @@
-# Currently coding 👨‍💻<br>Always learning 📖
+# I am always developing 📖
 
 ```js
 class SeniorDeveloper {
