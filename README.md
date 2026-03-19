@@ -1,4 +1,6 @@
-# I am Lübeck based developer
+# Moin!
+
+<b>I am Ferdi, a Lübeck-based developer.</b>
 
 ![Lübeck, Malerviertel](https://raw.githubusercontent.com/moinferdi/moinferdi/refs/heads/main/luebeck_header.webp)
 
